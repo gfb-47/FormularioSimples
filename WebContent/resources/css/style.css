@@ -1,0 +1,20 @@
+body {
+	background: gray;
+}
+
+#form-style {
+	width: 18%;
+	padding: 40px;
+	margin-top: 15%;
+	margin-left:40%;
+	background: white;
+	border-radius: 10px;
+}
+
+#botao-enviar {
+	margin-top: 35%;
+}
+
+#botao-limpar {
+	margin-top: 15%;
+}
